@@ -1,8 +1,9 @@
 ## Demo
 
-Heroku deploys the fornt end and back end code onto its own server and hosts the chat.
+Heroku deploys the front end and back end code onto its own server and hosts the chat website. You can branch (clone/fork) this repository and do your additions, then make a pull request to this to this master branch, before you merge your changes. These changes will be reviewed and accepted and checked for merge-conflicts.
 
-https://isuri-nuxt-socket-chat.herokuapp.com/chat
+Demo:
+https://isuri-nuxt-socket-chat.herokuapp.com/
 
 > Vue.js, Nuxt.js, Node.js (Express), Vue-Socket.IO (Socket.IO), Vuetify.js
 
