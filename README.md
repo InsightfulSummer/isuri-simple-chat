@@ -1,5 +1,3 @@
-# nuxt-chat-app
-
 > Vue.js, Nuxt.js, Node.js (Express), Vue-Socket.IO (Socket.IO), Vuetify.js
 
 ## Build Setup
@@ -24,4 +22,4 @@ $ npm run generate
 
 ## Demo
 
-> https://nuxt-chat-app.herokuapp.com/
+https://isuri-nuxt-socket-chat.herokuapp.com/chat
