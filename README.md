@@ -1,3 +1,9 @@
+## Demo
+
+Heroku deploys the fornt end and back end code onto its own server and hosts the chat.
+
+https://isuri-nuxt-socket-chat.herokuapp.com/chat
+
 > Vue.js, Nuxt.js, Node.js (Express), Vue-Socket.IO (Socket.IO), Vuetify.js
 
 ## Build Setup
@@ -20,6 +26,3 @@ $ npm run generate
 
 > https://medium.com/@stfalconcom/chat-app-creation-using-vue-js-nuxt-js-node-js-socket-io-vue-socket-io-vuetify-js-technologies-5f15f0781476
 
-## Demo
-
-https://isuri-nuxt-socket-chat.herokuapp.com/chat
